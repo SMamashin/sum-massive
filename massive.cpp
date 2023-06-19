@@ -1,5 +1,10 @@
 #include<iostream.h>
- 
+/*
+
+    sum massive
+
+*/ 
+
 double mak (double *massive, int n);
  
 int main()
